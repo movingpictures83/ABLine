@@ -1,0 +1,2 @@
+Prefix plugins/ABLine/example/
+Plugin ABLine inputfile hnrnp.csv outputfile abline.pdf
